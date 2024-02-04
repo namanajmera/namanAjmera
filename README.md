@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Naman Ajmera</h1>
 <h3 align="center">A software engineer with a focus on front-end development. My expertise lies in Vue.js and React.js, and have a proven track record of delivering high-quality solutions that meet the needs of clients and users. A problem-solver with a creative and flexible approach to challenges, and Enjoy collaborating with others to achieve common goals. Let's connect and explore opportunities to work together on innovative solutions. Have an experience in Javascript, Typescript, State Management.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
