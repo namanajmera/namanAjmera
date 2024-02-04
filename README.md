@@ -75,7 +75,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/namanajmera/namanAjmera/blob/main/snake.svg" alt="Snake animation" />
+<!--<img src="https://github.com/namanajmera/namanAjmera/blob/main/snake.svg" alt="Snake animation" /> -->
 
 ###
 
