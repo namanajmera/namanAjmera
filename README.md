@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Naman Ajmera and I'm a Software Development Engineer- 1 at 1SilverBullet.</h2>
+<h2 align="center">Hi 👋! My name is Naman and I'm a Software Development Engineer- 1 at 1SilverBullet.</h2>
 
 ###
 
