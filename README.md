@@ -1,7 +1,6 @@
 <h2 align="center">Hi 👋! My name is <a href="https://naman-ajmera.onrender.com/" target="_blank">Naman </a> and I'm a Software Development Engineer-1 at 1SilverBullet.</h2>
 
 ###
-
 ###
 
 <div align="center">
